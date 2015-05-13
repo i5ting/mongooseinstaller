@@ -1,6 +1,6 @@
 {
   "name": "mongooseinstaller",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "mongoose bson fixer",
   "main": "index.js",
   "scripts": {
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/i5ting/mongooser.git"
+    "url": "https://github.com/i5ting/mongooseinstaller.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/i5ting/mongooser/issues"
+    "url": "https://github.com/i5ting/mongooseinstaller/issues"
   },
-  "homepage": "https://github.com/i5ting/mongooser",
+  "homepage": "https://github.com/i5ting/mongooseinstaller",
   "dependencies": {
     "shelljs": "^0.4.0"
   },

@@ -15,6 +15,8 @@
     
 然后切换到对应的有package.json的目录
 
-    mongooser
+    mi
+    mongoosei
+    mongooseinstaller
     
 完成。
