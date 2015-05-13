@@ -9,7 +9,7 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "icli": "index.js"
+    "mongooser": "index.js"
   },
   "repository": {
     "type": "git",
