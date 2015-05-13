@@ -1,5 +1,5 @@
 {
-  "name": "mbf",
+  "name": "mongooseinstaller",
   "version": "1.0.6",
   "description": "mongoose bson fixer",
   "main": "index.js",
@@ -9,7 +9,9 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "mbf": "index.js"
+    "mongooseinstaller": "index.js",
+    "mongoosei": "index.js",
+    "mi": "index.js"
   },
   "repository": {
     "type": "git",
