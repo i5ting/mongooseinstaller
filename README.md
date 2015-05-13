@@ -1,7 +1,8 @@
-# node-mongooser
+# node-mongooseinstaller
 
 安装mongoose经常会报错的解决方案
 
+[![npm version](https://badge.fury.io/js/mongooseinstaller.svg)](http://badge.fury.io/js/mongooseinstaller)
 
 ## 问题
 
@@ -11,7 +12,7 @@
 
 ## 用法
 
-    [sudo] npm install -g mongooser
+    [sudo] npm install -g mongooseinstaller
     
 然后切换到对应的有package.json的目录
 

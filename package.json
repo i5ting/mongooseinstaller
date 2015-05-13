@@ -1,6 +1,6 @@
 {
   "name": "mongooseinstaller",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "mongoose bson fixer",
   "main": "index.js",
   "scripts": {
