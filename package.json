@@ -1,7 +1,7 @@
 {
-  "name": "mongooser",
-  "version": "1.0.5",
-  "description": "",
+  "name": "mbf",
+  "version": "1.0.6",
+  "description": "mongoose bson fixer",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
@@ -9,7 +9,7 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "mongooser": "index.js"
+    "mbf": "index.js"
   },
   "repository": {
     "type": "git",
